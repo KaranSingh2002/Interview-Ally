@@ -1,3 +1,4 @@
+# Note :- If you get redirected to a subscribe page after the signUp or signIn just write [https://interview-ally.vercel.app/dashboard] so that you redirect to the dashboard page.
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
